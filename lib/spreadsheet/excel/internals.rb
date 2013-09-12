@@ -94,7 +94,7 @@ module Internals
     0x0022 => :xls_color_26,
     0x0023 => :xls_color_27,
     0x0024 => :purple,                #xls_color_28
-    0x9933 => :gt_purple,
+    0x1124 => :gt_purple,
     0x0025 => :xls_color_29,
     0x0026 => :xls_color_30,
     0x0027 => :xls_color_31,
