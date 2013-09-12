@@ -17,7 +17,7 @@ class << self
              :text, :border, :pattern_bg, :dialog_bg, :chart_text, :chart_bg,
              :chart_border, :tooltip_bg, :tooltip_text, :aqua,
              :black, :blue, :cyan, :brown, :fuchsia, :gray, :grey, :green,
-             :lime, :magenta, :navy, :orange, :purple, :red, :silver, :white,
+             :lime, :magenta, :navy, :orange, :purple, :gt_purple, :red, :silver, :white,
              :yellow,
              :xls_color_0,
              :xls_color_1,
